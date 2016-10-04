@@ -81,5 +81,5 @@ var orm = {
 		});
 	}
 };
-
+console.log("orm: " + orm);
 module.exports = orm;
